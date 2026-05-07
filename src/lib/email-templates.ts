@@ -94,7 +94,7 @@ export function buildConsultationEmailResponseHtml(
     </div>
 
     <p>While you wait, feel free to explore our work and read our latest insights:</p>
-    <a class="cta" href="https:www.advantageng.com/blog">Read Our Blog →</a>
+    <a class="cta" href="https:www.advantageng.com">Read Our Blog →</a>
 
     <div class="footer">
       You're receiving this because you submitted a contact form at <a href="https://www.advantageng.com">www.advantageng.com</a>.<br/>
